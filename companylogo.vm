@@ -77,6 +77,13 @@
 .container-fluid {
 	padding-left: 20px !important;
 }
+
+
+.jstree-xwiki .jstree-clicked {
+	background: #c2daed !important;
+}
+
+
 </style>	
 
 
